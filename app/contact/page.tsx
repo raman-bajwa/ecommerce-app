@@ -5,14 +5,14 @@ export default function Home() {
   return (
     <div>
       <header>
-        <h1>Shopie</h1>
+        <h1>Contact</h1>
         <p>Your Ultimate Online Shopping Destination</p>
     </header>
     <nav>
         <a href="#">Home</a>
         <a href="#features">Features</a>
         <a href="#products">Products</a>
-        <Link href="/contact">Contact Us</Link>
+        <Link href="#contact">Contact Us</Link>
     </nav>
     <section className="hero">
         <h2>Welcome to Shopie</h2>
